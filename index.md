@@ -11,4 +11,4 @@ The aim here is to create a **webpage** that has different *functionalities* :
 [This takes you to a cute cat](https://www.pexels.com/photo/animal-pet-cute-kitten-45201/)
 
 Here is an image. 
-![Cute kitty](images/kitty.jpeg)
+[Cute kitty](images/kitty.jpeg)
